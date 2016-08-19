@@ -14,10 +14,10 @@
 *
 
 ##Members
-- Rhea Anne Laiño
-- Victo Ray Valdez
-- Christian Paul Aguinaldo
- Web hosting and Documentation
+- __Rhea Anne Laiño__ - Front End Design, Edit Function and Validation 
+- __Victo Ray Valdez__ -Database Hosting, Add and Delete Function 
+- __Christian Paul Aguinaldo__ - Web hosting and Documentation
 
 ----------------------------------
+Link to Website: nachee1325.pythonanywhere.com
 Repository for todo list 
